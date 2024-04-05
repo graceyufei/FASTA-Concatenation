@@ -7,4 +7,4 @@ This is a local Python program that helps to concatenate sequences into one FAST
    ex: 00001
        00002
        00003
-3. In your terminal, run command Python catenate_fasta.py. The output file will be built in the Output folder.
+3. In your terminal, run command Python concatenate_fasta.py. The output file will be built in the Output folder.
