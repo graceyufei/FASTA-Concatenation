@@ -11,6 +11,9 @@ This is a local Python program that helps to concatenate sequences into one FAST
 python concatenate_fasta.py
 ````
 
+If you would like to customize or extract parts of fasta header to match with your sample name, you can edit the method *to_dict_remove_dupe*. I have provided two examples of how you can customize the fasta headers.
+
 Packages and versions:
 - Python version 3.8 or above 
 - Biopython
+
